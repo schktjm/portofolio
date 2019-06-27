@@ -1,0 +1,71 @@
+#comp-iqq5pu28inlineContent {
+  height: auto;
+  width: 416px;
+  position: relative;
+}
+
+#comp-iqq5pu28inlineContent-gridWrapper {
+  pointer-events: none;
+}
+
+#comp-iqq5pu28inlineContent-gridContainer {
+  position: static;
+  display: grid;
+  height: auto;
+  width: 100%;
+  min-height: auto;
+  grid-template-rows: min-content min-content min-content 1fr;
+  grid-template-columns: 100%;
+}
+
+#comp-iqq5s2jz {
+  position: relative;
+  margin: 58px 0px 47px 0;
+  left: 12px;
+  grid-area: 1 / 1 / 2 / 2;
+  justify-self: start;
+  align-self: start;
+}
+
+#comp-iqq5qjea {
+  position: relative;
+  margin: 0px 0px 38px 0;
+  left: 12px;
+  grid-area: 2 / 1 / 3 / 2;
+  justify-self: start;
+  align-self: start;
+}
+
+#comp-iquhpvh8 {
+  position: relative;
+  margin: 0px 0px 23px 0;
+  left: 164px;
+  grid-area: 3 / 1 / 4 / 2;
+  justify-self: start;
+  align-self: start;
+}
+
+#comp-iquh7l40 {
+  position: relative;
+  margin: 0px 0px 37px 0;
+  left: 8px;
+  grid-area: 4 / 1 / 5 / 2;
+  justify-self: start;
+  align-self: start;
+}
+
+#comp-iqq5pu28centeredContent {
+  position: relative;
+}
+
+#comp-iqq5pu28inlineContent-gridContainer > * {
+  pointer-events: initial;
+}
+
+#comp-iqq5pu28inlineContent-gridContainer > [id$='-rotated-wrapper'] {
+  pointer-events: none;
+}
+
+#comp-iqq5pu28inlineContent-gridContainer > [id$='-rotated-wrapper'] > * {
+  pointer-events: initial;
+}

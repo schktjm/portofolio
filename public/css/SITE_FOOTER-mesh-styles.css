@@ -1,0 +1,53 @@
+#SITE_FOOTERinlineContent {
+  height: auto;
+  width: 100%;
+  position: relative;
+}
+
+#SITE_FOOTERinlineContent-gridWrapper {
+  pointer-events: none;
+}
+
+#SITE_FOOTERinlineContent-gridContainer {
+  position: static;
+  display: grid;
+  height: auto;
+  width: 100%;
+  min-height: auto;
+  grid-template-rows: 1fr;
+  grid-template-columns: 100%;
+}
+
+#comp-is9bxrcx {
+  position: relative;
+  margin: 27px 0px 23px calc((100% - 980px) * 0.5);
+  left: 14px;
+  grid-area: 1 / 1 / 2 / 2;
+  justify-self: start;
+  align-self: start;
+}
+
+#comp-is9bxuvc {
+  position: relative;
+  margin: 23px 0px 23px calc((100% - 980px) * 0.5);
+  left: 882px;
+  grid-area: 1 / 1 / 2 / 2;
+  justify-self: start;
+  align-self: start;
+}
+
+#SITE_FOOTERcenteredContent {
+  position: relative;
+}
+
+#SITE_FOOTERinlineContent-gridContainer > * {
+  pointer-events: initial;
+}
+
+#SITE_FOOTERinlineContent-gridContainer > [id$='-rotated-wrapper'] {
+  pointer-events: none;
+}
+
+#SITE_FOOTERinlineContent-gridContainer > [id$='-rotated-wrapper'] > * {
+  pointer-events: initial;
+}
