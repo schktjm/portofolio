@@ -1,0 +1,60 @@
+.style-jxeq08xlscreenWidthBackground {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.style-jxeq08xl[data-state~='fixedPosition'] {
+  position: fixed !important;
+  left: auto !important;
+  z-index: 50;
+}
+.style-jxeq08xl[data-state~='fixedPosition'].style-jxeq08xl_footer {
+  top: auto;
+  bottom: 0;
+}
+.style-jxeq08xl_bg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(237, 237, 228, 0.8);
+  border-top: 0px solid rgba(47, 46, 46, 1);
+  border-bottom: 0px solid rgba(47, 46, 46, 1);
+}
+.style-jxeq08xlbg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.style-jxeq08xl[data-state~='mobileView'] .style-jxeq08xlbg {
+  left: 10px;
+  right: 10px;
+}
+.style-jxeq08xl_bg-center {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  bottom: 0px;
+  left: 0;
+  background-color: transparent;
+  border-radius: 0;
+}
+.style-jxeq08xlinlineContent {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.style-jxeq08xlcenteredContent {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
