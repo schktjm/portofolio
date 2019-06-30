@@ -3,34 +3,15 @@
     sans-serif;
   color: #2f2e2e;
 }
-.font_1 {
-  font: normal normal normal 16px/1.4em din-next-w01-light, din-next-w02-light,
-    din-next-w10-light, sans-serif;
-  color: #605e5e;
-}
-.font_2 {
-  font: normal normal normal 25px/1.4em avenir-lt-w01_35-light1475496,
-    sans-serif;
-  color: #2f2e2e;
-}
 .font_3 {
   font: normal normal normal 60px/1.4em 'ｍｓ ｐゴシック', 'ms pgothic',
     'ヒラギノ角ゴ pro w3', 'hiragino kaku gothic pro', osaka, sans-serif;
   color: #2f2e2e;
 }
+
 .font_4 {
   font: normal normal bold 50px/1.4em 'ｍｓ ｐゴシック', 'ms pgothic',
     'ヒラギノ角ゴ pro w3', 'hiragino kaku gothic pro', osaka, sans-serif;
-  color: #2f2e2e;
-}
-.font_5 {
-  font: normal normal normal 25px/1.4em avenir-lt-w01_85-heavy1475544,
-    sans-serif;
-  color: #2f2e2e;
-}
-.font_6 {
-  font: normal normal normal 22px/1.4em avenir-lt-w01_35-light1475496,
-    sans-serif;
   color: #2f2e2e;
 }
 .font_7 {
@@ -42,14 +23,4 @@
   font: normal normal normal 14px/1.4em 'メイリオ', meiryo,
     'ヒラギノ角ゴ pro w3', 'hiragino kaku gothic pro', sans-serif;
   color: #2f2e2e;
-}
-.font_9 {
-  font: normal normal normal 14px/1.4em din-next-w01-light, din-next-w02-light,
-    din-next-w10-light, sans-serif;
-  color: #605e5e;
-}
-.font_10 {
-  font: normal normal normal 12px/1.4em din-next-w01-light, din-next-w02-light,
-    din-next-w10-light, sans-serif;
-  color: #605e5e;
 }

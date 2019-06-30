@@ -1,44 +1,44 @@
-
 #mediair1rs4ry1inlineContent {
-    height: auto;
-    width: 100%;
-    position: relative;
+  height: auto;
+  width: 100%;
+  position: relative;
 }
 
 #mediair1rs4ry1inlineContent-gridWrapper {
-    pointer-events: none;
+  pointer-events: none;
 }
 
 #mediair1rs4ry1inlineContent-gridContainer {
-    position: static;
-    display: grid;
-    height: auto;
-    width: 100%;
-    min-height: auto;
-    grid-template-rows: 1fr;
-    grid-template-columns: 100%;
+  position: static;
+  display: grid;
+  height: auto;
+  width: 100%;
+  min-height: auto;
+  grid-template-rows: 1fr;
+  grid-template-columns: 100%;
 }
 
 #comp-irvps096 {
-    position: relative;
-    margin: 15px 0px 16px calc((100% - 980px) * 0.5);
-    left: 412px;
-    grid-area: 1 / 1 / 2 / 2;
-    justify-self: start;
-    align-self: start;
+  position: relative;
+  margin: 15px 0px 16px calc((100% - 980px) * 0.5);
+  left: 412px;
+  grid-area: 1 / 1 / 2 / 2;
+  justify-self: start;
+  align-self: start;
 }
 
 #mediair1rs4ry1centeredContent {
-    position: relative;
+  position: relative;
 }
 
 #mediair1rs4ry1inlineContent-gridContainer > * {
-    pointer-events: initial;
+  pointer-events: initial;
 }
 
-#mediair1rs4ry1inlineContent-gridContainer > [id$="-rotated-wrapper"] {
-    pointer-events: none;
+#mediair1rs4ry1inlineContent-gridContainer > [id$='-rotated-wrapper'] {
+  pointer-events: none;
 }
 
-#mediair1rs4ry1inlineContent-gridContainer > [id$="-rotated-wrapper"] > * {
-    pointer-events: initial;
+#mediair1rs4ry1inlineContent-gridContainer > [id$='-rotated-wrapper'] > * {
+  pointer-events: initial;
+}
